@@ -33,7 +33,7 @@ Antes de começar, certifique-se de ter instalado em sua máquina:
 Execute o binário gerado:
 
 ```bash
-./random-name-picker
+./randomnamepicker
 ```
 
 ## Scripts Disponíveis
