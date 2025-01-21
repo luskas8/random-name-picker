@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"module/internal/request"
-	"module/setup/settings"
+
+	"github.com/luskas8/randomnamepicker/src/modules/request"
+	"github.com/luskas8/randomnamepicker/src/modules/settings"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-module module
+module github.com/luskas8/randomnamepicker
 
 go 1.23.5
 
